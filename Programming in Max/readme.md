@@ -1,7 +1,5 @@
-# sunghahong.github.io / Audio Programming in C             
+# sunghahong.github.io / Programming in Max            
 
-The following repository contains assignments I have worked on while currently taking the EP-353 Audio Programming in C course at the Berklee College of Music with professor Akito van Troyer.
+The following repository contains a Max patch I have worked on while currently taking the EP-341 Programming in Max course at the Berklee College of Music with professor Jean-Luc Sinclair.
 
-Week1 folder contains a .csd file (Csound) of my transcription of a melody that can be played in Terminal.
-
-Week2 folder contains a .c file (C) of my replication of the RTPC (Real-Time Parameter Control) feature in Unity and Wwise, which ideally would serve as a script for the player's health system in video games.
+Final Project folder contains a Max patch, in which I have attempted replicating the Random Container feature in Wwise.
